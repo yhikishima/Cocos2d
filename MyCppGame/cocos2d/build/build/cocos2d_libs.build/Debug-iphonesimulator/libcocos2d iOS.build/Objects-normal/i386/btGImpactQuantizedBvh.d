@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/external/bullet/BulletCollision/Gimpact/btGImpactQuantizedBvh.cpp \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/external/bullet/BulletCollision/Gimpact/btGImpactQuantizedBvh.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/external/bullet/BulletCollision/Gimpact/btGImpactBvh.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/external/bullet/BulletCollision/Gimpact/btBoxCollision.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/external/bullet/BulletCollision/Gimpact/btTriangleShapeEx.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionShape.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btTriangleShape.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexShape.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionMargin.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btBoxShape.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btPolyhedralConvexShape.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/BulletCollision//CollisionShapes/btConvexInternalShape.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btAabbUtil2.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/external/bullet/BulletCollision/Gimpact/btClipPolygon.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btGeometryUtil.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/external/bullet/BulletCollision/Gimpact/btGeometryOperations.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/external/bullet/BulletCollision/Gimpact/btQuantization.h \
+  /Users/yhiki1/work/Cocos2d/MyCppGame/cocos2d/build/../external/bullet/LinearMath/btQuickprof.h
